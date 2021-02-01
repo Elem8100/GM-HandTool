@@ -12,6 +12,6 @@ WZ Library:
 WZComparerR2
 https://github.com/Kagamia/WzComparerR2
 
-Compilier:
+Compiler:
 PascalAbc.Net
 http://pascalabc.net/en/
