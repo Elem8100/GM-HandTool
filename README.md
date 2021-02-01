@@ -6,3 +6,11 @@
 ![alt tag](https://i.imgur.com/89rkXTs.jpg"")
 ![alt tag](https://i.imgur.com/h5S7PgJ.jpg"")
 
+Credits:
+WZ Library:
+WZComparerR2
+https://github.com/Kagamia/WzComparerR2
+
+Compilier:
+PascalAbc.Net
+http://pascalabc.net/en/
