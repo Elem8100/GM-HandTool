@@ -10,7 +10,6 @@ Credits:
 
 WZ Library:
 WZComparerR2
-https://github.com/Kagamia/WzComparerR2
 
 Compiler:
 PascalAbc.Net
